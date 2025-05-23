@@ -1,0 +1,4 @@
+
+<template name="VotingPage">
+  <column-panel name="cards_container" spacing-above="medium" spacing-below="medium"/>
+</template>

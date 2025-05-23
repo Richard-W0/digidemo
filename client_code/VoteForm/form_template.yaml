@@ -1,0 +1,10 @@
+
+<template name="VoteForm">
+  <column-panel>
+    <label name="label_title" role="headline" />
+    <image name="image" height="150" />
+    <progress-bar name="progress_bar" max="30" />
+    <button name="button_toggle" text="Show Options" role="primary-color" event="click:toggle_details" />
+    <column-panel name="details_panel" visible="false"/>
+  </column-panel>
+</template>

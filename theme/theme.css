@@ -1,0 +1,11 @@
+
+.nav-bar a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 12px;
+  font-weight: bold;
+}
+.nav-bar a:hover {
+  background-color: #a62b45;
+  border-radius: 4px;
+}
